@@ -1,0 +1,10 @@
+../Core/Src/bsp_lcd.c:105:6:BSP_LCD_Init	8	static
+../Core/Src/bsp_lcd.c:117:6:BSP_LCD_Set_Orientation	24	static
+../Core/Src/bsp_lcd.c:162:6:LCD_Pin_Init	32	static
+../Core/Src/bsp_lcd.c:214:6:LCD_SPI_Enable	16	static
+../Core/Src/bsp_lcd.c:220:6:LCD_SPI_Init	16	static
+../Core/Src/bsp_lcd.c:242:6:delay_50ms	16	static
+../Core/Src/bsp_lcd.c:246:6:LCD_Reset	16	static
+../Core/Src/bsp_lcd.c:255:6:LCD_Config	24	static
+../Core/Src/bsp_lcd.c:409:6:LCD_Write_Cmd	24	static
+../Core/Src/bsp_lcd.c:423:6:LCD_Write_Data	24	static

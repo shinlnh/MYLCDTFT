@@ -1,0 +1,4 @@
+../Core/Src/main.c:73:5:main	1
+../Core/Src/main.c:127:6:SystemClock_Config	4
+../Core/Src/main.c:181:13:MX_LTDC_Init	3
+../Core/Src/main.c:246:6:Error_Handler	1
